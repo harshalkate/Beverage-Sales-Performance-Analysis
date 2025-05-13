@@ -1,6 +1,7 @@
 # Beverage-Sales-Performance-Analysis
 
 📊 Beverage Sales Performance Analysis
+
 🔍 Overview
 This project dives into beverage sales data to uncover revenue drivers, customer behavior, and regional performance. Using SQL, Power BI, and Canva, I transformed raw sales data into actionable insights for business growth.
 
