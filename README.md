@@ -45,5 +45,5 @@ beverage-sales-dashboard.pbix – Power BI dashboard file
 
 presentation.pdf – Final visual summary (made in Canva)
 
-📎 Live Dashboard / Project Link: [Insert link]
+📎 Live Dashboard / Project Link: [[Insert link]](https://www.linkedin.com/posts/harshalkate31_analysis-pdf-activity-7327947453947686912-0kMS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfnEuIBvnCENkgrd-mwGt4NaGw6XG11Ezk)
 📬 Let’s connect if you want to collaborate or discuss insights further!
